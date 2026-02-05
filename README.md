@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack MERN applications with blockchain (MetaMask & Ethereum) integration.<br>Full-stack, Web3, and AI-based real-world projects.<br>Advanced AI agents, smart contract security, and scalable deployments.<br>AI/ML, system design, blockchain, and German language basics.<br>MERN stack, Web3 payments, computer networks.<br>I love simplifying complex tech concepts into clear, practical solutions.
+Full-stack MERN applications with blockchain (MetaMask & Ethereum) integration.<br>Full-stack, Web3, and AI-based real-world projects.<br>Advanced AI agents, smart contract security, and scalable deployments.<br>AI/ML, system design, blockchain.<br>MERN stack, Web3 payments, computer networks.<br>I love simplifying complex tech concepts into clear, practical solutions.
 
 
 ## 🌐 Socials:
